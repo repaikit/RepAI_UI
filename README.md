@@ -1,6 +1,6 @@
 # REPAI – Verifiable Tech Certifications
 
-REPAI is a platform for exploring and verifying technical certifications—spanning projects, bootcamp achievements, and hackathon results—using the transparency and immutability of blockchain technology hosted on the **Olym3 Blockchain** :contentReference[oaicite:0]{index=0}.
+REPAI is a platform for exploring and verifying technical certifications—spanning projects, bootcamp achievements, and hackathon results—using the transparency and immutability of blockchain technology hosted on the **Olym3 Blockchain**
 
 ---
 
@@ -20,20 +20,20 @@ REPAI allows users to explore and verify technical achievements such as:
 
 - **Projects** – Certified via `aijudge.olym3.xyz`  
 - **Bootcamp Alumni** – Sourced from `jsabc.xyz`  
-- **NFT Certificates** – Issued and stored on the Olym3 Blockchain :contentReference[oaicite:1]{index=1}
+- **NFT Certificates** – Issued and stored on the Olym3 Blockchain
 
 ---
 
 ## Key Sections
 
 ### 1. Projects  
-Browse a curated list of certified projects—each authentication traceable through the Olym3 blockchain network via `aijudge.olym3.xyz` :contentReference[oaicite:2]{index=2}.
+Browse a curated list of certified projects—each authentication traceable through the Olym3 blockchain network via `aijudge.olym3.xyz` 
 
 ### 2. Individuals  
-View verified bootcamp alumni, with data drawn from `jsabc.xyz`—ensuring accurate representation of participant credentials :contentReference[oaicite:3]{index=3}.
+View verified bootcamp alumni, with data drawn from `jsabc.xyz`—ensuring accurate representation of participant credentials 
 
 ### 3. NFT Certificates  
-Access blockchain-backed certificates stored on the Olym3 platform for secure and immutable credential verification :contentReference[oaicite:4]{index=4}.
+Access blockchain-backed certificates stored on the Olym3 platform for secure and immutable credential verification 
 
 ---
 
@@ -41,19 +41,19 @@ Access blockchain-backed certificates stored on the Olym3 platform for secure an
 
 - **Verify Certificate**: Use the “Verify” feature on the homepage to authenticate any certificate listed in the system.
 - **Explore**: Navigate between the “Projects,” “Individuals,” and “NFT Certificates” sections to review certified entries.
-- **Admin Access**: There's an “Admin” panel available, likely for managing or adding new certifications—accessible to authorized users :contentReference[oaicite:5]{index=5}.
+- **Admin Access**: There's an “Admin” panel available, likely for managing or adding new certifications—accessible to authorized users
 
 ---
 
 ## Powered By
 
-This platform is implemented using the **Olym3 Blockchain**, which ensures all certifications are verifiable, transparent, and tamper-proof :contentReference[oaicite:6]{index=6}.
+This platform is implemented using the **Olym3 Blockchain**, which ensures all certifications are verifiable, transparent, and tamper-proof
 
 ---
 
 ## Footer Information
 
-The footer displays the year **© 2025 repai.vn** and clearly states: **Powered by Olym3 Blockchain** :contentReference[oaicite:7]{index=7}.
+The footer displays the year **© 2025 repai.vn** and clearly states: **Powered by Olym3 Blockchain** 
 
 ---
 
@@ -68,4 +68,3 @@ If you’d like to extend the README further, consider adding:
 ---
 
 Feel free to let me know if you’d like any refinements or additional sections like usage examples, developer setup, or contribution guidelines!
-::contentReference[oaicite:8]{index=8}
