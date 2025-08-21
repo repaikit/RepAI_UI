@@ -1,134 +1,71 @@
-# Repai.vn – Verifiable Tech Certifications
+# REPAI – Verifiable Tech Certifications
 
-Repai.vn is a cutting-edge platform enabling the verification of technical certifications, bootcamp achievements, and hackathon results using blockchain technology to ensure authenticity and transparency.
+REPAI is a platform for exploring and verifying technical certifications—spanning projects, bootcamp achievements, and hackathon results—using the transparency and immutability of blockchain technology hosted on the **Olym3 Blockchain** :contentReference[oaicite:0]{index=0}.
 
 ---
 
 ## Table of Contents
 
-1. [Project Overview](#project-overview)
-2. [Features](#features)
-3. [Technologies](#technologies)
-4. [Getting Started](#getting-started)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Contact](#contact)
+1. [Overview](#overview)  
+2. [Key Sections](#key-sections)  
+3. [How to Use](#how-to-use)  
+4. [Powered By](#powered-by)  
+5. [Footer Information](#footer-information)
 
 ---
 
-## Project Overview
+## Overview
 
-Repai.vn aggregates and verifies technical credentials such as:
+REPAI allows users to explore and verify technical achievements such as:
 
-* Project contributions
-* Bootcamp alumni status
-* NFT-certified credentials
-
-All verifiable data is stored transparently and immutably on the **Olym3 Blockchain** ([repai.vn][1]).
+- **Projects** – Certified via `aijudge.olym3.xyz`  
+- **Bootcamp Alumni** – Sourced from `jsabc.xyz`  
+- **NFT Certificates** – Issued and stored on the Olym3 Blockchain :contentReference[oaicite:1]{index=1}
 
 ---
 
-## Features
+## Key Sections
 
-* **Certified Projects**
-  View and verify project achievements indexed from `aijudge.olym3.xyz` ([repai.vn][1]).
+### 1. Projects  
+Browse a curated list of certified projects—each authentication traceable through the Olym3 blockchain network via `aijudge.olym3.xyz` :contentReference[oaicite:2]{index=2}.
 
-* **Bootcamp Alumni Directory**
-  Explore lists of alumni from partner bootcamps like `jsabc.xyz` ([repai.vn][1]).
+### 2. Individuals  
+View verified bootcamp alumni, with data drawn from `jsabc.xyz`—ensuring accurate representation of participant credentials :contentReference[oaicite:3]{index=3}.
 
-* **NFT Certificates**
-  Access NFT-based certification details stored on the Olym3 blockchain, ensuring trust and immutability ([repai.vn][1]).
-
-* **Verify Certificates**
-  Use the "Verify Certificate" feature to authenticate credentials directly through the platform ([repai.vn][1]).
+### 3. NFT Certificates  
+Access blockchain-backed certificates stored on the Olym3 platform for secure and immutable credential verification :contentReference[oaicite:4]{index=4}.
 
 ---
 
-## Technologies
+## How to Use
 
-* **Frontend**: (Specify framework, e.g., React, Vue, Next.js…)
-* **Backend**: (Specify, e.g., Node.js, Django, Golang…)
-* **Blockchain Layer**: Olym3 Blockchain
-* **Data Sources**:
-
-  * `aijudge.olym3.xyz` for project data
-  * `jsabc.xyz` for bootcamp alumni data
-* **Hosting / Infrastructure**: (e.g., Vercel, AWS, DigitalOcean…)
-* **Others**: (e.g., Docker, CI/CD, SEO tools…)
+- **Verify Certificate**: Use the “Verify” feature on the homepage to authenticate any certificate listed in the system.
+- **Explore**: Navigate between the “Projects,” “Individuals,” and “NFT Certificates” sections to review certified entries.
+- **Admin Access**: There's an “Admin” panel available, likely for managing or adding new certifications—accessible to authorized users :contentReference[oaicite:5]{index=5}.
 
 ---
 
-## Getting Started
+## Powered By
 
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/repaikit/RepAI_UI.git
-   cd RepAI_UI
-   ```
-
-2. **Install Dependencies**
-
-   ```bash
-   npm install
-   # or
-   yarn install
-   ```
-
-3. **Configure Environment Variables**
-   Create a `.env` file with:
-
-   ```
-   API_URL=<backend API endpoint or Olym3 interface>
-   BLOCKCHAIN_NODE_URL=<Olym3 node RPC endpoint>
-   ```
-
-   (Add any other required variables.)
-
-4. **Run the Development Server**
-
-   ```bash
-   npm run dev
-   # or
-   yarn dev
-   ```
-
-5. **Access Locally**
-   Navigate to `http://localhost:3000` (or the designated port) in your browser.
+This platform is implemented using the **Olym3 Blockchain**, which ensures all certifications are verifiable, transparent, and tamper-proof :contentReference[oaicite:6]{index=6}.
 
 ---
 
-## Usage
+## Footer Information
 
-* **Browse** projects, bootcamp alumni, and NFT certificates.
-* **Verify** a certificate using the built-in verifier tool.
-* **Contribute** data—contact the team to integrate additional bootcamps or project sources.
+The footer displays the year **© 2025 repai.vn** and clearly states: **Powered by Olym3 Blockchain** :contentReference[oaicite:7]{index=7}.
 
 ---
 
-## Contributing
+## Optional Enhancements (if applicable)
 
-* Fork the repository.
-* Create a feature branch: `git checkout -b feature/add-new-bootcamp`.
-* Commit your changes: `git commit -m "Add support for new bootcamp integration"`.
-* Push and open a pull request.
-* Ensure compliance with existing coding standards and run tests (if any).
+If you’d like to extend the README further, consider adding:
 
----
-
-## License
-
-This project is **[MIT License](LICENSE)** (or other license).
-Please refer to the `LICENSE` file for details.
+- **Screenshots** of the UI showing each section (Projects, Individuals, NFT Certificates, Verify page, Admin panel).  
+- **Demo link** for live access to the platform.  
+- **Tech Stack details** such as frameworks, languages, backend infrastructure, APIs, etc.—if available.
 
 ---
 
-## Contact
-
-Created and maintained by the Repai.vn team.
-Powered by the **Olym3 Blockchain** ([repai.vn][1]).
-
----
-
-[1]: https://www.repai.vn/ "Repai.vn – Verifiable Tech Certifications"
+Feel free to let me know if you’d like any refinements or additional sections like usage examples, developer setup, or contribution guidelines!
+::contentReference[oaicite:8]{index=8}
